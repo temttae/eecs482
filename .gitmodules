@@ -7,3 +7,6 @@
 [submodule "p3-pager"]
 	path = p3-pager
 	url = git@github.com:temttae/eecs482-p3-pager.git
+[submodule "p4-network-file-server"]
+	path = p4-network-file-server
+	url = git@github.com:temttae/eecs482-p4-network-file-server.git
