@@ -1,0 +1,3 @@
+[submodule "p1-multi-threaded-programming"]
+	path = p1-multi-threaded-programming
+	url = git@github.com:temttae/eecs482-p1-multi-threaded-programming.git
