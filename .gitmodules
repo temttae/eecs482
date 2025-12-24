@@ -1,3 +1,6 @@
 [submodule "p1-multi-threaded-programming"]
 	path = p1-multi-threaded-programming
 	url = git@github.com:temttae/eecs482-p1-multi-threaded-programming.git
+[submodule "p2-thread-library"]
+	path = p2-thread-library
+	url = git@github.com:temttae/eecs482-p2-thread-library.git
