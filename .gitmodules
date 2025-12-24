@@ -4,3 +4,6 @@
 [submodule "p2-thread-library"]
 	path = p2-thread-library
 	url = git@github.com:temttae/eecs482-p2-thread-library.git
+[submodule "p3-pager"]
+	path = p3-pager
+	url = git@github.com:temttae/eecs482-p3-pager.git
